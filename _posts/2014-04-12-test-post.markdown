@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2014-04-13 22:42:13
+title:  "Another Test Post!"
+date:   2014-04-13 23:49:13
 categories: jekyll update
-image: https://s3.amazonaws.com/ooomf-com-files/BA1yLjNnQCI1yisIZGEi_2013-07-16_1922_IMG_9873.jpg
+image: https://s3.amazonaws.com/ooomf-com-files/WyVMN1W6Tves4NUkaXwh_14.JPG
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!

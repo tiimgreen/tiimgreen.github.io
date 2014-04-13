@@ -1,5 +1,9 @@
 @import url(default.css);
 
+header, footer {
+	background-attachment: fixed;
+}
+
 #post-info {
 	width: 700px;
 	left: 50%;
@@ -13,12 +17,7 @@
 	line-height: 44px;
 }
 
-#home-title {
-	width: 700px;
-	margin-left: -350px;
-}
-
-#article {
+#article, #comments {
 	width: 700px;
 	padding: 50px 0px;
 	left: 50%;
@@ -41,8 +40,23 @@
 	position: fixed;
 }
 
+.menu:hover, .menu:active  {
+	background-color: #1a1a1a;
+}
+
 .menu-content {
+	width: 125px;
+	top: 47px;
+	left: 12px;
+	padding-top: 5px;
+	padding-bottom: 2px;
+	padding-left: 20px;
+	padding-right: 20px;
 	position: fixed;
+}
+
+.menu-title {
+	display: none;
 }
 
 .pagination, #post-list {
@@ -53,4 +67,8 @@
 
 .copyright {
 	right: 20px;
+}
+
+table {
+	width: 100%;
 }

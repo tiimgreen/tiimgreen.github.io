@@ -10,3 +10,9 @@ dark: true
 # The Console - Enlightened
 
 [Toc](http://github.com/tiimgreen/toc) is a simple, lightweight gem to colour outputs to the console.
+
+It can be installed by running:
+
+{% highlight bash %}
+$ gem install toc
+{% endhighlight %}

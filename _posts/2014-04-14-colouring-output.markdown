@@ -17,4 +17,26 @@ It can be installed by running:
 $ gem install toc
 {% endhighlight %}
 
-Admittedly, Toc isn't that good. It's my first Ruby Gem...
+Admittedly, Toc isn't that good. It's my first Ruby Gem and I didn't really have a clue, but it works. And it looks nice. It works like this:
+
+Colours available:
+
+- Black
+- Red
+- Green
+- Yellow
+- Purple
+- Pink
+- Light Blue
+
+To make the current text coloured:
+{% highlight ruby %}
+puts 'Hello World'.red
+{% endhighlight %}
+
+If you want to add a background:
+{% highlight ruby %}
+puts 'Hello World'.red_on_black
+{% endhighlight %}
+
+And it's as simple as that, the code can be found [here](https://github.com/tiimgreen/toc)

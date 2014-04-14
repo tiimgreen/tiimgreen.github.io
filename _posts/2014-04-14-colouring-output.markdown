@@ -39,4 +39,8 @@ If you want to add a background:
 puts 'Hello World'.red_on_black
 {% endhighlight %}
 
+À la:
+
+![Toc](http://i.imgur.com/QraO0h9.png)
+
 And it's as simple as that, the code can be found [here](https://github.com/tiimgreen/toc)

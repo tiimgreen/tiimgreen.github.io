@@ -5,6 +5,8 @@ title: About me, Tim.
 
 I'm on: [github (@tiimgreen)](http://github.com/tiimgreen) - [twitter (@tiimgreen)](http://twitter.com/tiimgreen) - [email (tiimgreen@gmail.com)](mailto:tiimgreen@gmail.com)
 
+I have a CV available upon request.
+
 I make cool stuff, primarily with Ruby (Rails):
 
 - [Toc](https://github.com/tiimgreen/toc) - RubyGem to colourise outputs to the console

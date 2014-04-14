@@ -16,3 +16,5 @@ It can be installed by running:
 {% highlight bash %}
 $ gem install toc
 {% endhighlight %}
+
+Admittedly, Toc isn't that good. It's my first Ruby Gem...

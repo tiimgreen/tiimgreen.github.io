@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Writing Tables in the Console"
-date: 2014-04-14 12:39:00
+date: 2014-04-15 12:39:00
 categories: ruby open-source gem
 image: http://i.imgur.com/IckpkJZ.png
 dark: true

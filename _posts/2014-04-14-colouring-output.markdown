@@ -4,7 +4,6 @@ title: "Colouring Outputs to the Console in Ruby"
 date: 2014-04-14 17:47:00
 categories: ruby open-source gem
 image: /assets/images/dark_items.jpg
-dark: true
 ---
 
 # The Console - Enlightened

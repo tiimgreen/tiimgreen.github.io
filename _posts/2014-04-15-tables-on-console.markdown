@@ -16,6 +16,8 @@ dark: true
 To initialize a table create a new instance of `Tabbit`, passing in the name of the headers:
 
 {% highlight ruby %}
+require 'tabbit'
+
 table = Tabbit.new('Name', 'Email', 'Phone No.')
 {% endhighlight %}
 

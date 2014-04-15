@@ -28,4 +28,10 @@ Adding a row is as simple as:
 end
 {% endhighlight %}
 
+And to output the table:
+Adding a row is as simple as:
+{% highlight ruby %}
+puts table.to_s
+{% endhighlight %}
+
 Tabbit was created purely as a means of learning Ruby and RubyGems, I learned a lot making it and to some, it might actually come in useful.

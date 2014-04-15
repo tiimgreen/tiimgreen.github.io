@@ -34,3 +34,8 @@ puts table.to_s
 {% endhighlight %}
 
 Tabbit was created purely as a means of learning Ruby and RubyGems, I learned a lot making it and to some, it might actually come in useful.
+
+To install:
+{% highlight bash %}
+$ gem install tabbit
+{% endhighlight %}

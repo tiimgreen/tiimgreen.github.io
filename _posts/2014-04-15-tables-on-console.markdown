@@ -29,7 +29,6 @@ end
 {% endhighlight %}
 
 And to output the table:
-Adding a row is as simple as:
 {% highlight ruby %}
 puts table.to_s
 {% endhighlight %}

@@ -6,7 +6,7 @@ pygments: true
 permalink:	/blog/:title
 
 # Setup
-title: Tim Green - B to the LOG
+title: Tim Green
 tagline: 'blog'
 description: 'My personal blog.'
 url: http://tiimgreen.com

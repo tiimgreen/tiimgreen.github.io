@@ -12,7 +12,7 @@ The [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) was in
 
 Initially, I made the guide purely so I could remember all the cool features in the video. I wanted a place where I could refer back so I wouldn't have to watch both videos over and over. After making the draft I quite liked to so posted it on the Reddit programming section to see if others would appreciate it and went to bed. I woke to 250 stars which quickly grew to 1,000 in less than 12 hours after it was published. Shit. Turns out people actually liked it. 1,000 quickly turned into 2,000 which turned into 3,000 and at the time of writing it currently has 4,966 stars.
 
-![GitHub Cheat Sheet Traffic](/assets/images/ghcs-traffic-screenshot.jpg)
+![GitHub Cheat Sheet Traffic](/assets/images/ghcs-traffic-screenshot.png)
 
 After having the repo live for a few days, I realised it wasn't climbing the ranks of the Trending page on Github. I shot an Email to support and got this response:
 

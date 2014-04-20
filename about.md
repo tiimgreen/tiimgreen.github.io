@@ -7,7 +7,9 @@ I'm on: [github (@tiimgreen)](http://github.com/tiimgreen) - [twitter (@tiimgree
 
 I have a CV available upon request.
 
-I make cool stuff, primarily with Ruby (Rails):
+I've been making and breaking cool stuff, primarily with Ruby (Rails) since 2011.
+
+Some past and ongoing work:
 
 - [Kodets](http://kodets.com) - an autonomous code-teaching platform designed for schools and organisations
 - [Toc](http://tiimgreen.com/blog/colouring-output/) - a RubyGem to colourise outputs to the console

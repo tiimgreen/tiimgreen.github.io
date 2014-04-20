@@ -17,3 +17,5 @@ Some past and ongoing work:
 - [Toc](http://tiimgreen.com/blog/colouring-output/) - a RubyGem to colourise outputs to the console
 - [Tabbit](http://tiimgreen.com/blog/tables-on-console/) - a RubyGem to make simple tables in the console
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - a cheat sheet on using Git and GitHub which was pretty popular
+
+All code is available under the [MIT License](/mit) unless otherwise stated.

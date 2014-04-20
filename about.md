@@ -12,4 +12,4 @@ I make cool stuff, primarily with Ruby (Rails):
 - [Kodets](http://kodets.com) - an autonomous code-teaching platform designed for schools and organisations
 - [Toc](http://tiimgreen.com/blog/colouring-output/) - a RubyGem to colourise outputs to the console
 - [Tabbit](http://tiimgreen.com/blog/tables-on-console/) - a RubyGem to make simple tables in the console
-- I made a [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) which was pretty popular
+- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) a cheat sheet on using Git and GitHub which was pretty popular

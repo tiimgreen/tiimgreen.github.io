@@ -26,6 +26,7 @@ After having the repo live for a few days, I realised it wasn't climbing the ran
 For a repo that wasn't even meant to go public, thats not bad!
 
 Some of my personal favourites include:
+
 - [Keyboard Shortcuts](https://github.com/tiimgreen/github-cheat-sheet#keyboard-shortcuts) to quickly navigate repos
 - [Hub](https://github.com/tiimgreen/github-cheat-sheet#hub) a simple, easy to use git wrapper
 - [Closing Issues with Commit Messages](https://github.com/tiimgreen/github-cheat-sheet#closing-issues-via-commit-messages) an incredibly simple yet incredibly useful feature

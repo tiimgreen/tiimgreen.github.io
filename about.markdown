@@ -11,5 +11,4 @@ I make cool stuff, primarily with Ruby (Rails):
 
 - [Toc](https://github.com/tiimgreen/toc) - RubyGem to colourise outputs to the console
 - [Tabbit](https://github.com/tiimgreen/tabbit) - RubyGem to make simple tables in the console
-
-I made a [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) that was pretty popular.
+- I made a [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) which was pretty popular

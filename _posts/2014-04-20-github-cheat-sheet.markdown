@@ -3,7 +3,7 @@ layout: post
 title: "GitHub Cheat Sheet"
 date: 2014-04-20 20:22:00
 categories: open-source
-image: /assets/images/tools.jpg
+image: /assets/images/valve.jpg
 ---
 
 # GitHub Cheat Sheet

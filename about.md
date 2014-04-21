@@ -22,7 +22,7 @@ All code is available under the [MIT License](/mit) unless otherwise stated.
 
 ### Meta
 
-- Made on a Mac
+- Made on a <i class="fa fa-apple"></i>
 - Hacked together in [Atom](https://atom.io/)
 - Made with [Jekyll](http://jekyllrb.com/)
 - Hosted on [GitHub Pages](https://pages.github.com/)

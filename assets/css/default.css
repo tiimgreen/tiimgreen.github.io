@@ -268,6 +268,7 @@ blockquote p {
 code, pre {
 	font-family: Menlo, Monaco, "Courier New", monospace;
 	background-color: #2b303b;
+	margin-left: 0;
 }
 
 code {
@@ -285,9 +286,9 @@ pre {
 	white-space: pre-wrap;
 	word-break: break-all;
 	word-wrap: break-word;
-	-webkit-border-radius: 5px;
-     -moz-border-radius: 5px;
-          border-radius: 5px;
+	-webkit-border-radius: 3px;
+     -moz-border-radius: 3px;
+          border-radius: 3px;
 }
 
 pre code {

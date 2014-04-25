@@ -4,6 +4,7 @@ title: "Git Aliases"
 date: 2014-04-25 21:35:00
 categories: open-source git
 image: /assets/images/mac_and_glasses.jpg
+dark: true
 ---
 
 Git provides tonnes of useful features, one of which being git aliases. This allows you to type:

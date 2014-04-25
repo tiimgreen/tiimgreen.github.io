@@ -13,23 +13,19 @@ dark: true
 
 ![Tabbit](http://i.imgur.com/IckpkJZ.png)
 
-To initialize a table create a new instance of `Tabbit`, passing in the name of the headers:
-
+tabbit.rb
 {% highlight ruby %}
 require 'tabbit'
 
-table = Tabbit.new('Name', 'Email', 'Phone No.')
-{% endhighlight %}
+# Pass headers as parameters:
+table = Tabbit.new 'Name', 'Email', 'Phone No.'
 
-Adding a row is as simple as:
-{% highlight ruby %}
+# To add a row call the .add_row function, with each parameter being a column:
 10.times do |n|
-  table.add_row("Tim Green #{n}", "tiimgreen-#{n}@gmail.com", "123-456-789")
+  table.add_row "Tim Green #{n}", "tiimgreen-#{n}@gmail.com", '123-456-789'
 end
-{% endhighlight %}
 
-And to output the table:
-{% highlight ruby %}
+# To output the table to the console:
 puts table.to_s
 {% endhighlight %}
 

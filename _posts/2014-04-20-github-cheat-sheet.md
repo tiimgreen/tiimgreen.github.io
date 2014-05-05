@@ -10,7 +10,7 @@ image: /assets/images/valve.jpg
 
 The [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) was inspired by [Zack Holman](http://zachholman.com/)'s talks at [Aloha Ruby Conf](http://www.confreaks.com/videos/1229-aloharuby2012-git-and-github-secrets) (2012) and [WDCNZ](https://vimeo.com/72955426) (2013).
 
-Initially, I made the guide purely so I could remember all the cool features in the video. I wanted a place where I could refer back so I wouldn't have to watch both videos over and over. After making the draft I quite liked to so posted it on the Reddit programming section to see if others would appreciate it and went to bed. I woke to 250 stars which quickly grew to 1,000 in less than 12 hours. Shit. Turns out people actually liked it. 1,000 quickly turned into 2,000 which turned into 3,000, at the time of writing it currently has 4,967 stars.
+Initially, I made the guide purely so I could remember all the cool features in the video. I wanted a place where I could refer back so I wouldn't have to watch both videos over and over. After making the draft I quite liked to so posted it on the Reddit programming section to see if others would appreciate it and went to bed. I woke to 250 stars which quickly grew to 1,000 in less than 12 hours. It turns out people actually liked it. 1,000 quickly turned into 2,000 which turned into 3,000, at the time of writing it currently has 4,967 stars.
 
 ![GitHub Cheat Sheet Traffic](/assets/images/ghcs-traffic-screenshot.png)
 

@@ -68,6 +68,10 @@ img {
 	font-size: 14px;
 	position: absolute;
 	z-index: 2;
+	padding: 20px;
+	padding-top: 10px;
+	background-color: #000000;
+	opacity: 0.8;
 }
 
 #post-info h1 {

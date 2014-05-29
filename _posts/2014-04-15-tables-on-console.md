@@ -4,7 +4,6 @@ title: "Writing Tables in the Console"
 date: 2014-04-15 12:39:00
 categories: ruby open-source gem
 image: /assets/images/desk.jpg
-dark: true
 ---
 
 # Formatted Tables in the Console

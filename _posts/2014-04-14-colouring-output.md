@@ -13,7 +13,7 @@ image: /assets/images/dark_items.jpg
 It can be installed by running:
 
 {% highlight bash %}
-$ gem install toc
+gem install toc
 {% endhighlight %}
 
 Admittedly, Toc isn't that good. It's my first Ruby Gem and I didn't really have a clue, but it works. And it looks nice. It works like this:

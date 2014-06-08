@@ -8,17 +8,17 @@ image: /assets/images/mac_and_glasses.jpg
 
 Git provides tonnes of useful features, one of which being git aliases. This allows you to type:
 {% highlight bash %}
-$ git ac -m 'Initial Commit'
-$ git p
-$ git ph
+git ac -m 'Initial Commit'
+git p
+git ph
 {% endhighlight %}
 
 Instead of:
 {% highlight bash %}
-$ git add .
-$ git commit -m 'Initial Commit'
-$ git push
-$ git push heroku master
+git add .
+git commit -m 'Initial Commit'
+git push
+git push heroku master
 {% endhighlight %}
 
 Which may not seem like a huge amount of time shaved off, but when a lot of commits/pushes are being made it is very useful.

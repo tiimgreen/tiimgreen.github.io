@@ -32,5 +32,5 @@ Tabbit was created purely as a means of learning Ruby and RubyGems, I learned a 
 
 To install:
 {% highlight bash %}
-$ gem install tabbit
+gem install tabbit
 {% endhighlight %}

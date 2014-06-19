@@ -13,7 +13,7 @@ I've been making and breaking cool stuff, primarily with **Ruby (Rails)** since 
 
 Some past and ongoing work:
 
-- [Kodets](http://kodets.com) - a free, autonomous code-teaching platform designed for schools and organisations
+- [Kodets](http://kodets.com) - an autonomous code-teaching platform designed for schools and educational organisations
 - [Toc](http://tiimgreen.com/blog/colouring-output/) - a RubyGem to colourise outputs to the console
 - [Tabbit](http://tiimgreen.com/blog/tables-on-console/) - a RubyGem to make simple tables in the console
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - a cheat sheet on using Git and GitHub which was pretty popular

@@ -9,7 +9,7 @@ I'm on: [github (@tiimgreen)](http://github.com/tiimgreen) - [twitter (@tiimgree
 
 I have a **CV** available upon request.
 
-I've been making and breaking cool stuff, primarily with **Ruby (Rails)** since 2011.
+I've been making and breaking cool stuff, primarily with **Ruby (Rails)** since 2010.
 
 Some past and ongoing work:
 

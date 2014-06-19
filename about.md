@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-I am a student, currently studying for my **GCSEs**.
+I am a student, currently studying for my **A-Levels**.
 
 I'm on: [github (@tiimgreen)](http://github.com/tiimgreen) - [twitter (@tiimgreen)](http://twitter.com/tiimgreen) - [email (tiimgreen@gmail.com)](mailto:tiimgreen@gmail.com)
 
